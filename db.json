@@ -52,16 +52,5 @@
    "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F2BE319A6-26F5-4FC0-B5D1-4C7B00836F36?alt=media&token=9e243202-6a0f-4917-8665-8bb43423fe57",
    "name":"blastoise",
    "type":"water"
-   },
-   "-MWU6rVk1P2aMIdWbAQa":{
-      "deviceInfo":{
-         "deviceId":"abc",
-         "deviceName":"Jaya's Phone",
-         "deviceOs":"Android Lollipop",
-         "deviceType":"Mobile",
-         "ipAddress":"192.168.1.100"
-      },
-      "password":"Dew1017d",
-      "username":"dewitt"
    }
 }
