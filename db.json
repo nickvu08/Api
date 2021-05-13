@@ -59,6 +59,66 @@
          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FA74C1300-1EA0-4ABE-A44E-A9BB9B806F2E?alt=media&token=4e796b54-f031-436e-8a5c-cdd376cf49c6",
          "name":"Caterpie",
          "type":"Bug"
+         },
+          {
+         "id":11,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F9AFFD002-929D-4173-AF04-60AF06804AF4?alt=media&token=d9565cf6-4243-4f52-aa72-51dbb2d20ccb",
+         "name":"Metapod",
+         "type":"Bug"
+         },
+          {
+         "id":12,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F62EDC09D-D545-46B5-A6C7-AC352907C188?alt=media&token=126ddd9c-7609-48bd-860e-ef4fbc0c91b9",
+         "name":"Butterfree",
+         "type":"Bug"
+         },
+          {
+         "id":13,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F22CF9E13-3C38-4668-890A-C0215FB04F97?alt=media&token=a829501b-8df0-49b2-b2a4-0891b6e4b842",
+         "name":"Weedle",
+         "type":"Poison"
+         },
+          {
+         "id":14,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F24143ADC-9FF4-45EA-8F52-75D1A8AEB18F?alt=media&token=5ea1f21d-610a-449b-8e3f-b95eb86184e7",
+         "name":"Kakuna",
+         "type":"Poison"
+         },
+          {
+         "id":15,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FF4B3A60B-7DA9-4572-AE0B-EA929F80CE5A?alt=media&token=9e61759c-4ba6-4d73-9784-6fad5a973618",
+         "name":"Beedrill",
+         "type":"Poison"
+         },
+            {
+         "id":16,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FCA28BEF4-2B4E-4BF0-954E-4B62B4E0C26C?alt=media&token=3a49ac30-e5f6-4993-9f73-69ca684ee412",
+         "name":"Pidgey",
+         "type":"Flying"
+         },
+            {
+         "id":17,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F61B5ABA8-B6F4-439B-9307-F8AA36302B14?alt=media&token=eede296a-6ffc-4948-8018-b7aca500bafa",
+         "name":"Pidgeotto",
+         "type":"Flying"
+         },
+            {
+         "id":18,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FAD0C4703-1097-4E28-AB92-E2727153248A?alt=media&token=4ac040ec-30b0-4e7b-ba04-ae0df9a02cee",
+         "name":"Pidgeot",
+         "type":"Flying"
+         },
+            {
+         "id":19,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F8BE672F8-D52E-4639-B18E-C4C1247CDDD9?alt=media&token=003249c5-9a2b-4986-b8ca-d151a33865cf",
+         "name":"Rattata",
+         "type":"Normal"
+         },
+            {
+         "id":20,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F9A46FF19-944B-472B-BE9E-66331B64A8C1?alt=media&token=d906d0d5-6bfa-4644-a667-f60fec1bb67f",
+         "name":"Raticate",
+         "type":"Normal"
          }
       ]
 }
