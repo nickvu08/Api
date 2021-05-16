@@ -167,18 +167,6 @@
          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FE6501950-AE52-4C13-98F5-BFB992F7D847?alt=media&token=21347e1f-a763-4f56-bc95-85db573f0c01",
          "name":"Sandslash",
          "type":"Ground"
-         },
-          {
-         "id":29,
-         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2F2889694C-7DC0-43E3-93F7-8472B506ADFD?alt=media&token=c1187706-a9a7-4090-aa0a-57b7e5e4edd2",
-         "name":"Nidoran",
-         "type":"Poison"
-         },
-          {
-         "id":30,
-         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pokedex-bb36f.appspot.com/o/pokemon_images%2FF220EB51-DBDE-4A40-8AF4-F38CD431A32E?alt=media&token=3b5042f6-ae2c-421b-9c18-dbf77017af66",
-         "name":"Nidorina",
-         "type":"Poison"
          }
       ]
 }
